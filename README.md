@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karis
-- 👀 I’m interested in IoT, Drone Programming, system Architecture Design
+- 👀 I’m interested in IoT, Drone Programming, system Architecture Design, network design
 - 🌱 I’m currently learning Telecommunication And Information Engineering at Dedan Kimathi University of technology in Kenya
 - 💞️ I’m looking to collaborate on any of the above projects 
 - 📫 How to reach me via email: karisluky29@gmail.com

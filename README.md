@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any of the above projects 
 - 📫 You can reach me via email: kariukijkiboi@gmail.com
 - 😄 Pronouns: just call me karis
-- ⚡ Fun fact: Wabi-Sabi is probably my best theory of imperfection, yet!
+- ⚡ Fun fact: Wabi-Sabi is probably the best theory of imperfection i have found, yet!
 
 <!---
 Karisjk/Karisjk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

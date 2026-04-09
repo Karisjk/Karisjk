@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Karis
-- 👀 I’m interested in IoT, Drone Programming, system Architecture Design, network design
-- 🌱 I’m currently learning Telecommunication And Information Engineering at Dedan Kimathi University of technology in Kenya
+- 👀 I’m interested Embedded Systems Design, AI and Automation Engineering, IoT, 
+- 🌱 I’m currently working on RFID Technology which is exciting!
 - 💞️ I’m looking to collaborate on any of the above projects 
-- 📫 How to reach me via email: kariukijkiboi@gmail.com
+- 📫 You can reach me via email: kariukijkiboi@gmail.com
 - 😄 Pronouns: just call me karis
-- ⚡ Fun fact: i smile everytime someone says hi to me ...i am becoming a nerd though 
+- ⚡ Fun fact: Wabi-Sabi is probably my best theory of imperfection, yet!
 
 <!---
 Karisjk/Karisjk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
